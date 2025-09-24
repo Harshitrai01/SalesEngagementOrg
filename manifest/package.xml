@@ -8,5 +8,5 @@
         <members>*</members>
         <name>ApexComponent</name>
     </types>
-    <version>64.0</version>
+    <version>56.0</version>
 </Package>
